@@ -1,8 +1,8 @@
-#include <stdio.h>
+  #include <stdio.h>
  
 float lerNumero() {
     float num;
-    printf("Digite um numerozo: ");
+    printf("Digite um numeroz: ");
     scanf("%f",&num);
     return num;
 }
