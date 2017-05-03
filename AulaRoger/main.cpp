@@ -97,7 +97,7 @@ void menu() {
                 break;  
         }
     }while(menuSelecionado !=5);
-    //ola juliano colega
+    //ola juliano colega de ADS
 }
  
 main() {
