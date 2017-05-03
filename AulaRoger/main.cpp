@@ -2,7 +2,7 @@
  
 float lerNumero() {
     float num;
-    printf("Digite um numeroz: ");
+    printf("Digite um numerozo: ");
     scanf("%f",&num);
     return num;
 }
