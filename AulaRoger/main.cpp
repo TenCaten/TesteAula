@@ -96,7 +96,8 @@ void menu() {
                 imprimir(result);
                 break;  
         }
-    }while(menuSelecionado !=5);        
+    }while(menuSelecionado !=5);
+    //ola
 }
  
 main() {
